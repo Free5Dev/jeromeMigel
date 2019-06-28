@@ -1,0 +1,5 @@
+1 ------------------------------------------------------------CREER UN MODULE SIMPLE AVEC DRUPAL ------------------------------------------------------
+	
+	Toute la documentation sur la création de module personnalisé via https://www.drupal.org/docs/8/creating-custom-modules
+
+2 ------------------------------------------------------------BLOCK ET FORMULAIRES ------------------------------------------------------
